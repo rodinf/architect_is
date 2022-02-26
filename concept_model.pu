@@ -1,0 +1,26 @@
+@startuml
+
+class Camera {
+  Image : Image
+  Connection : Ethernet
+  connectToCamera() : int
+  getImage() : Image
+}
+
+
+class main {
+  graffiti_is_here : bool
+  graffiti_pos : int[]
+  robot_is_here : bool
+  robot_connect_address : string
+  
+  lookForGraffiti() : 
+  lookForRobot() : int
+  connectToRobot() : int
+  sendMessageToRobot() : int
+}
+
+Camera --* main
+
+
+@enduml
