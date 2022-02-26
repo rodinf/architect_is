@@ -1,0 +1,3 @@
+/home/fedor/Desktop/architect_is/cv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fedor/Desktop/architect_is/cv/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fedor/Desktop/architect_is/cv/cmake-build-debug/CMakeFiles/cv.dir

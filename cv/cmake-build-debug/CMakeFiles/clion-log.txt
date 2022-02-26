@@ -1,0 +1,4 @@
+/home/fedor/clion-2021.3.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/fedor/clion-2021.3.3/bin/ninja/linux/ninja -G Ninja /home/fedor/Desktop/architect_is/cv
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/fedor/Desktop/architect_is/cv/cmake-build-debug
