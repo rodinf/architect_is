@@ -1,0 +1,8 @@
+@startuml
+computer -> camera: connectToCamera()
+computer -> camera: getImage()
+computer -> camera: lookForGraffiti()
+computer -> robot: connectToRobot()
+computer -> robot: sendMessageToRobot()
+computer -> camera: lookForRObot()
+@enduml
